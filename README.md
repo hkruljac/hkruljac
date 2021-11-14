@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkruljac
 - 👀 I’m interested in python, math, backend development, electronics (Arduino, Raspberry)
 - 🌱 I’m currently learning Flask, ant to get a better grip on beckend side of web development
-- 💞️ I’m looking to collaborate on ... anything related to my interests
+- 💞️ I’m looking to collaborate on ... Anything related to my interests
 - 📫 How to reach me ... For now reach me via Github
 
 <!---
